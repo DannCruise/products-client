@@ -2,7 +2,7 @@ $(function(){
     getProductos();
 });
 
-var url= 'http://api.run/productsController.php';
+var url= 'http://localhost/api-products/';
 
 function getProductos(){
     $('#contenido').empty();
