@@ -13,3 +13,7 @@ Paso 3: Abrir en el navegador el index.html
 - Fontawesome
 - jQuery
 - SweetAlert2
+
+## Video de explicación
+
+Si quieres realizar este proyecto paso a paso [te comparto el siguiente enlace](https://www.youtube.com/watch?v=FdVfFxmd-tk&list=PL1ZB-EKP1eiR4MLJGI5AXeCeJWlI5GYuD)
